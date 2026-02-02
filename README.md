@@ -17,7 +17,7 @@ A fun, interactive Valentine website built with **HTML, CSS, and JavaScript** �
 ---
 
 ## 🗂️ Project Structure
-``
+```
 valentine-project/
 │
 ├── index.html # Main HTML file
@@ -31,7 +31,7 @@ valentine-project/
 │
 ├── images/ # (Optional) local images
 └── README.md
-``
+```
 
 ---
 
@@ -74,11 +74,10 @@ questions: {
     ]
   }
 }
-
+```
 ## 🎵 Background Music
 
 Supports **local MP3 files**.
-
 
 ```
 music/
