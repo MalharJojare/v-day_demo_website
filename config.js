@@ -46,7 +46,7 @@ const CONFIG = {
     },
 
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓 \nOur match is made in heaven \nEven though my love is 3.5 and yours is -3.5😭",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },

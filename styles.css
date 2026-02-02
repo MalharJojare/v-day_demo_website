@@ -317,3 +317,11 @@ h2 {
     background: #FFDD00;
     color: black;
 } 
+
+.kundali_img {
+    width:100%;
+}
+
+.celebration_Title{
+    white-space: pre-line;
+}
